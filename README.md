@@ -1,7 +1,7 @@
  
 Projeto FutibaClub 
 
-Este projeto desenvolvido durante o curso Fullstack Master -  DevPleno
+Este projeto foi desenvolvido durante o curso Fullstack Master - DevPleno
 
 Tecnologias Utilizadas
 
